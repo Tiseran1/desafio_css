@@ -1,0 +1,40 @@
+body {font-size: 140px ;}
+.principal{ 
+    background-image: url('../img/piedras\ encabezado.jpg');
+    height: 7em;
+    background-position: center;
+    background-size: cover;
+    padding:100px;
+    margin:200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+.principal p {
+    font-size: 100px;
+    color: rgb(36, 1, 1);
+    font-weight:lighter;
+    }
+.productos{
+    width:90%;
+    margin: auto;
+    }
+.productos td {
+    width: 50%;
+    padding: 30px;
+    font-size: 100px;
+    }
+.productos img { 
+    width: 1000px;
+    }
+.footer { 
+    font-size: 60px;
+    background-color: rgb(104, 104, 152);
+    background-position: center;
+    padding: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 6em;
+}
+.footer li {
+    text-align: justify;
+    color: aliceblue;
+}
